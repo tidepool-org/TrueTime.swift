@@ -540,9 +540,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 28482DD61D314E7C003491D9 /* Build configuration list for PBXNativeTarget "TrueTime-iOS" */;
 			buildPhases = (
+				28482DBF1D314E7B003491D9 /* Headers */,
 				28482DBD1D314E7B003491D9 /* Sources */,
 				28482DBE1D314E7B003491D9 /* Frameworks */,
-				28482DBF1D314E7B003491D9 /* Headers */,
 				28482DC01D314E7B003491D9 /* Resources */,
 			);
 			buildRules = (
@@ -578,9 +578,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 285047E41D4D641400DE4CE8 /* Build configuration list for PBXNativeTarget "TrueTime-tvOS" */;
 			buildPhases = (
+				285047DC1D4D641400DE4CE8 /* Headers */,
 				285047DA1D4D641400DE4CE8 /* Sources */,
 				285047DB1D4D641400DE4CE8 /* Frameworks */,
-				285047DC1D4D641400DE4CE8 /* Headers */,
 				285047DD1D4D641400DE4CE8 /* Resources */,
 			);
 			buildRules = (
@@ -616,9 +616,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 287C37B11D4419F800084D47 /* Build configuration list for PBXNativeTarget "TrueTime-Mac" */;
 			buildPhases = (
+				287C37AC1D4419F800084D47 /* Headers */,
 				287C37A41D4419F800084D47 /* Sources */,
 				287C37AA1D4419F800084D47 /* Frameworks */,
-				287C37AC1D4419F800084D47 /* Headers */,
 				287C37AF1D4419F800084D47 /* Resources */,
 			);
 			buildRules = (
